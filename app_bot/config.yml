@@ -5,7 +5,7 @@ telegram:
   lang_code: !!str "en"
   max_upload_tasks: 50
   allowed_users:
-    - id: @ase26
+    - id:ase26
       send_startup_message: !!bool True
       upload:
         upload_video_file: !!bool True
