@@ -1,15 +1,15 @@
 telegram:
-  api_id: 00000000000
-  api_hash: "<PASTE-HERE-TELEGRAM-API-HASH>"
-  token: "<PASTE-HERE-TELEGRAM-TOKEN>"
+  api_id: 24512494
+  api_hash: "965ff313790ad8d1971a8209c8dfcf85"
+  token: "6287093697:AAGW14tCLi53eJrzGh-zx1C4WDI8hqqZX5U"
   lang_code: !!str "en"
   max_upload_tasks: 5
   allowed_users:
-    - id: 00000000000
+    - id: ase26
       send_startup_message: !!bool True
       upload:
-        upload_video_file: !!bool False
-        upload_video_max_file_size: 2147483648
+        upload_video_file: !!bool True
+        upload_video_max_file_size: 2147483
         forward_to_group: !!bool False
         forward_group_id: -00000000000
         silent: !!bool False
