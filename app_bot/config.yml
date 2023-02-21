@@ -3,7 +3,7 @@ telegram:
   api_hash: "965ff313790ad8d1971a8209c8dfcf85"
   token: "6287093697:AAGW14tCLi53eJrzGh-zx1C4WDI8hqqZX5U"
   lang_code: !!str "en"
-  max_upload_tasks: 5
+  max_upload_tasks: 50
   allowed_users:
     - id: ase26
       send_startup_message: !!bool True
